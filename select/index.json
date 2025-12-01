@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "遥か彼方 (Cover)",
+  "base_artist": "MyGO!!!!!",
+  "createdAt": "2025-12-01T01:09:55.615026Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "遥か彼方",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/01_遥か彼方_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Haruka Kanata [遥か彼方]",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/02_Haruka_Kanata_[遥か彼方]_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Haruka Kanata; 遥か彼方",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/03_Haruka_Kanata;_遥か彼方_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "遥か彼方",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/04_遥か彼方_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "遥か彼方(第26話〜第53話)",
+      "artist": "Muray",
+      "has_synced": true,
+      "path": "select/05_遥か彼方(第26話〜第53話)_Muray.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "遥か彼方 (第26-53話 OP)",
+      "artist": "Muray",
+      "has_synced": true,
+      "path": "select/06_遥か彼方_(第26-53話_OP)_Muray.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "遥か彼方",
+      "artist": "ASIAN KUNG‐FU GENERATION",
+      "has_synced": true,
+      "path": "select/07_遥か彼方_ASIAN_KUNG‐FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "遥か彼方",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/08_遥か彼方_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "遥か彼方",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/09_遥か彼方_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "遥か彼方 - Haruka Kanata",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/10_遥か彼方_-_Haruka_Kanata_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "遥か彼方 (2024 ver.)",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/11_遥か彼方_(2024_ver.)_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "遥か彼方",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/12_遥か彼方_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "遥か彼方",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/13_遥か彼方_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "遥か彼方 (2024 ver.)",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/14_遥か彼方_(2024_ver.)_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "遥か彼方",
+      "artist": "Rita",
+      "has_synced": false,
+      "path": "select/15_遥か彼方_Rita.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "遥か彼方",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/16_遥か彼方_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "遥か彼方",
+      "artist": "Rita",
+      "has_synced": true,
+      "path": "select/17_遥か彼方_Rita.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "遥か彼方 Remixed Svenson",
+      "artist": "Rita",
+      "has_synced": false,
+      "path": "select/18_遥か彼方_Remixed_Svenson_Rita.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "遥か彼方",
+      "artist": "Rita",
+      "has_synced": true,
+      "path": "select/19_遥か彼方_Rita.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "遥か彼方",
+      "artist": "Asian Kung-Fu Generation",
+      "has_synced": true,
+      "path": "select/20_遥か彼方_Asian_Kung-Fu_Generation.lrc"
+    },
+    {
+      "id": "petitlyrics",
+      "source": "petitlyrics",
+      "title": "遥か彼方 (Cover)",
+      "artist": "MyGO!!!!!",
+      "has_synced": false,
+      "path": "select/pl_遥か彼方_(Cover)_MyGO!!!!!.txt"
+    }
+  ]
+}
